@@ -1,6 +1,12 @@
 # IDEAS for a safer world with guns
 
-This is an attempt at making gun ownership and use safe, without sacrificing the right to bear arms. These ideas are primarily based on technology, technology, that largely exists today for other fields and industries. No idea, however crazy, is a bad idea. Let us save lives together!
+This is an attempt at making gun ownership and use safe, without sacrificing the right to bear arms. These ideas are primarily based on technology, technology, that largely exists today for other fields and industries. No idea, however crazy, is a bad idea. Let us save lives together! 
+
+Please see [here for how to contribute ideas](#contribute-ideas). Please read the [Simple Structure and Conventions](#simple-structure-and-conventions) followed for contributing.
+
+## List of Ideas
+* [Idea 001 - Fingerprint](idea-001-fingerprint.md)
+
 
 ## Contribute Ideas
 
@@ -30,7 +36,3 @@ You can fork this repository, make changes and raise a pull-request. If are new 
 * DO NOT USE any Personally Identifiable Information (PII). 
 * USE IMAGES FOR EXPLAINING IDEA / SOLUTION (say block diagrams). DO NOT USE AGE-INAPPROPRIATE OR DISTURBING IMAGES.
 * Disclaimer: NO WARRANTIES or GUARANTEES. NOT LIABLE IN ANY WAY. IDEAS ARE ONLY SUGGESTIONS.
-
-## List of Ideas
-
-* [Idea 001 - Fingerprint](idea-001-fingerprint.md)
