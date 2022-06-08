@@ -1,1 +1,1 @@
-# Zones where gun use will be enabled / disabled
+# Zones where gun use will be automatically enabled / disabled
