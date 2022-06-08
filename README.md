@@ -1,6 +1,8 @@
 # IDEAS for a safer world with guns
 
-This is an attempt at making gun ownership and use safe, without sacrificing the right to bear arms. These ideas are primarily based on technology, technology, that largely exists today for other fields and industries. No idea, however crazy, is a bad idea. Let us save lives together! 
+This is an attempt at making gun ownership and use safe, without sacrificing the right to bear arms. These ideas are primarily based on technology, technology, that largely exists today for other fields and industries. However, these need not be only technology-focussed, feel free to contribute ideas from other areas such as legislative, social, etc.
+
+No idea, however crazy, is a bad idea. Let us save lives together! 
 
 Please see [here for how to contribute ideas](#contribute-ideas). Please read the [Simple Structure and Conventions](#simple-structure-and-conventions) followed for contributing.
 
