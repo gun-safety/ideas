@@ -7,7 +7,7 @@ This is an attempt at making gun ownership and use safe, without sacrificing the
 *Please see [here for how to contribute ideas](#contribute-ideas). Please read the [Simple Structure and Conventions](#simple-structure-and-conventions) followed for contributing.*
 
 ## List of Ideas
-* [Idea 001 - Fingerprint for trigger](idea-001-fingerprint.md)
+* [Idea 001 - Fingerprint authentication for trigger](idea-001-fingerprint.md)
 * [Idea 002 - Authorized Zones for gun use](idea-002-authorized-zones.md)
 * [Idea 003 - Public traceability and verifiability of gun ownership](idea-003-ownership-traceability.md)
 
