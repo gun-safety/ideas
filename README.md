@@ -30,3 +30,7 @@ You can fork this repository, make changes and raise a pull-request. If are new 
 * DO NOT USE any Personally Identifiable Information (PII). 
 * USE IMAGES FOR EXPLAINING IDEA / SOLUTION (say block diagrams). DO NOT USE AGE-INAPPROPRIATE OR DISTURBING IMAGES.
 * Disclaimer: NO WARRANTIES or GUARANTEES. NOT LIABLE IN ANY WAY. IDEAS ARE ONLY SUGGESTIONS.
+
+## List of Ideas
+
+* [Idea 001 - Fingerprint](idea-001-fingerprint.md)
